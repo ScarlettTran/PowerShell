@@ -1,0 +1,6 @@
+﻿Age_Group,Age_Count,Competitor,Substitute,Estimation Sales/Day
+<= 22,100,0.3,0.5,20
+22-40,150,0.5,0.3,30
+40-60,200,0.3,0.65,10
+>=60,300,0.1,0.8,30
+,,,,359.1
