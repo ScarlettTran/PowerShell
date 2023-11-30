@@ -16,5 +16,6 @@ If you'd like to contribute to this project, feel free to open an issue or submi
 This project is licensed under the MIT License.
 
 ## Note
-Data is simulated
+- Data is simulated
+- In case you are still interested in PowerShell and its super power, feel free to visit my blog post on 2 other articles related to using PowerShell for Email and Calendar Automation: https://analysiswithanh.medium.com
 
