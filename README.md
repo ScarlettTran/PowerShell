@@ -1,6 +1,7 @@
 # Leveraging PowerShell ImportExcel: Time Series Forecasting & Impact Estimation
 
 This is the demo for the talk with title above at New York PowerShell Meetup on 16th November 2023 (Online).
+Link to the talk: https://www.youtube.com/watch?v=pkIRzLQ0_fs
 
 ## Abstract
 In this online talk presented at the New York PowerShell Meetup, we delve into the practical applications of the ImportExcel module in PowerShell through two illustrative examples. The first example explores time series forecasting, while the second focuses on impact estimation. The outcomes can be effectively visualized and shared with business stakeholders to facilitate informed decision-making. The ImportExcel module not only empowers business stakeholders to analyze and experiment with results easily but also provides a flexible setup for dynamic and efficient adjustments as needed.
